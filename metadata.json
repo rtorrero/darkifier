@@ -1,0 +1,8 @@
+{
+  "name": "darkifier",
+  "description": "This extension allows to provide a list of windows to search for to switch their titlebar to the dark variant",
+  "uuid": "darkifier@rtorrero.github.com",
+  "shell-version": [
+    "40"
+  ]
+}
